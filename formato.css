@@ -1,10 +1,14 @@
 ﻿/* Sólo formato para parecerse a Word. */
 body{
+/* Se prefiere arial. */
 font-family: arial, "times new roman";
+/* Texto justificado. */
 text-align: justify;
+/* El tamaño del texto normal será 12. */
 font-size: 12pt;
 }
 
+/* Los títulos tienen que estar centrados. */
 h1,h2,h3,h4,h5,h6{
 textalign: center;
 }
